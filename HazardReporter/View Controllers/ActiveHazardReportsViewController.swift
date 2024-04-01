@@ -144,9 +144,6 @@ class ActiveHazardReportsViewController:    UIViewController,
             cell.imageView?.image = UIImage(named: "hazard-icon")
         }
         
-        //cell.textLabel?.text = "January 1, 2018"
-        //cell.detailTextLabel?.text = "At the entrance to building 4 there's a puddle of water. I just about slipped and fell!"
-        
         return cell
     }
     
